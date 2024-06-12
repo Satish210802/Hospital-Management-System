@@ -25,7 +25,6 @@ Hospital Management System using MySQL, Php and Bootstrap
 4. XAMPP (A web server by Apache Friends)
 5. Php
 6. MySQL (An RDBMS that uses SQL)
-7. TCPDF (to generate PDFs)
 
 ## Steps to run the project in your machine
 1. Download and install XAMPP in your machine
